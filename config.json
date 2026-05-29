@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerdync",
+        "uuid": 109365,
+        "checksum": "mkfuvo"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
